@@ -10,7 +10,7 @@ const CONFIG = {
     btnReply: 'nhấn',
     reply: 'Còn em mong Sa sẽ luôn vui vẻ á',
     mess: 'Vậy nên không được tiêu cực đó nha',
-    messDesc: 'Hứa với em thì nhấn nút ở dưới nhóe',
+    messDesc: 'Hứa với em thì nhấn nút ở dưới nhó',
     btnAccept: 'Oki',
     messLink: 'http://ldp.to/5y2PO
 }
