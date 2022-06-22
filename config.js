@@ -1,20 +1,16 @@
 const CONFIG = {
-    titleWeb: "Huy Thắng ở đây",
-    introTitle: 'Huy Thắng',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Huy Thắng',
-    btnNo: 'Doãn',
-    question: 'Sao pà lại iu Huy Thắng zạ?',
-    btnReply: 'iu Huy Thắng thì nhấn',
-    reply: 'Vì Huy Thắng đúng gu',
-    mess: 'Yêu mà hok tán là dở',
-    messDesc: 'nhắn tin liền đi pà ui',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://www.facebook.com/profile.php?id=100058528667185' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
+    titleWeb: "Xin chào Nasa",
+    introTitle: 'Nasa',
+    introDesc: Hôm nay là một ngày đặc biệt, em hy vọng Sa sẽ vui vẻ ngày hôm nay và nhiều ngay sau nữa nhé`,
+    btnIntro: 'uki',
+    title: 'Tuổi 17 này phải luôn rực rỡ nhen?'
+    btnYes: 'oke',
+    btnNo: 'okeeeee nhưng nhiều chữ e hơn',
+    question: 'Hôm nay Sa muốn ước gì?',
+    btnReply: 'nhấn',
+    reply: 'Còn em mong Sa sẽ luôn vui vẻ á',
+    mess: 'Vậy nên không được tiêu cực đó nha',
+    messDesc: 'Hứa với em thì nhấn nút ở dưới nhóe',
+    btnAccept: 'Oki',
+    messLink: 'http://ldp.to/5y2PO
 }
